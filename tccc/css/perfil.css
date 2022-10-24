@@ -175,7 +175,7 @@ h1{
     background-color: var(--body-color);
     border-radius: 50%;
     position: absolute;
-    bottom: 320px;
+    bottom: 340px;
     left: calc(50% - 90px);
     box-shadow: 0 0 12px darkgray;
     z-index: 1;
