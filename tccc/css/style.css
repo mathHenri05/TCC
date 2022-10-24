@@ -151,8 +151,13 @@ h1{
     right: 15px;
     bottom: 15px;
     cursor: pointer;
+    text-align: center;
 }
 
+.bx-plus{
+    text-align: center;
+    margin-top: 10px;
+}
 
 .home{
     position: relative;
